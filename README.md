@@ -12,7 +12,6 @@ A C++ console program that helps users find and optimize travel routes between l
 - Example Output
 - Customization
 - Who Should Use This
-- License
 
 ---
 
